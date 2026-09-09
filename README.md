@@ -3,7 +3,7 @@
 <div align="center">
 
 # Anti-Sway Gantry Crane Control System
-### Bachelor Project • Electronic Systems & Control Engineering
+### Bachelor's Project • Electronic Systems & Control Engineering
 **Aalborg University (AAU) • Group 612**
 
 [![Platform](https://img.shields.io/badge/PlatformIO-Arduino_Mega_2560-orange?style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org)
