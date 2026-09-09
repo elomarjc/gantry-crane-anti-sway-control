@@ -100,8 +100,8 @@ P6-Crane-612/
 
 ```bash
 # Clone the repository
-git clone https://github.com/elomarjc/P6-Crane-612.git
-cd P6-Crane-612/Main
+git clone https://github.com/elomarjc/gantry-crane-anti-sway-control.git
+cd gantry-crane-anti-sway-control/Main
 
 # Compile and upload firmware via PlatformIO CLI
 pio run --target upload
